@@ -1,5 +1,5 @@
 # twitter-bot
-A twitter bot to retweet all tweets by an account
+A twitter bot to retweet all tweets by an account (Here I am using Elad Gil's Twitter)
 
 Get your own API keys @ https://developer.twitter.com/en/portal/petition/in-review
 
